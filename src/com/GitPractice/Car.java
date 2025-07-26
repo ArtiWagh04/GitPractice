@@ -6,6 +6,9 @@ public static void main(String[] args) {
 	int avgSpeed = 140;
 	float a = 10;
 	System.out.println("working on new feature demo");
+	
+	
+	System.out.println("commit test");
 }
 }
 
